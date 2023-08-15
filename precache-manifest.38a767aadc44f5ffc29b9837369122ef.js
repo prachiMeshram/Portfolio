@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/github.io/Portfolio/static/media/homeDecorationCompo.52d5c232.svg"
   },
   {
-    "revision": "f74caa8e6fd85584898823c2303669c0",
+    "revision": "ed3363877960b4fcf3681dc8ff19a2be",
     "url": "/github.io/Portfolio/index.html"
   }
 ];
